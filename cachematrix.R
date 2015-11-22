@@ -1,4 +1,4 @@
-## This function will can cache the inversed matrix of the input matrix
+## This function will cache the inversed matrix of the input matrix
 
 makeCacheMatrix <- function(mX = matrix()) {
   
